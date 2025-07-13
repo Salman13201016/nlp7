@@ -39,3 +39,8 @@ print(df_bfill,df_fill)
 #avg_forward_fill
 #avg_backward_fill
 #interpolation: Linear vs Polygon
+
+#removing based on threshold
+#fill with constant
+#fill with math constraint
+#bfill, ffill, interpolation
